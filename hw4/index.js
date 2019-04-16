@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'But don ' t overwork yourself , Mary.',
+      "But don ' t overwork yourself , Mary.",
   'example2':
-      'Like the white lock of Whistler , that lit our aimless gloom , Men showed their own white feather as proudly as a plume.',
+      "Like the white lock of Whistler , that lit our aimless gloom , Men showed their own white feather as proudly as a plume.",
   'example3':
-      'Be it so , then I answer ' d , I too haughty Shade also sing war , and a longer and greater one than any , Waged in my book with varying fortune , with flight , advance and retreat , victory deferr ' d and wavering , ( Yet methinks certain , or as good as certain , at the last ,) the field the world , For life and death , for the Body and for the eternal Soul , Lo , I too am come , chanting the chant of battles , I above all promote brave soldiers.', 
+      "Be it so , then I answer ' d , I too haughty Shade also sing war , and a longer and greater one than any , Waged in my book with varying fortune , with flight , advance and retreat , victory deferr ' d and wavering , ( Yet methinks certain , or as good as certain , at the last ,) the field the world , For life and death , for the Body and for the eternal Soul , Lo , I too am come , chanting the chant of battles , I above all promote brave soldiers.", 
   'example4':
-      'Long liue the King'
+      "Long liue the King"
 };
 
 function status(statusText) {
